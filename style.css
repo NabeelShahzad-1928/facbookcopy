@@ -1,0 +1,315 @@
+h1{
+    color: rgb(62, 29, 193);
+}
+.soro{
+    background-color: white;
+    
+}
+.nave{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}
+.extra{
+    width: 33%;
+    display: flex;
+    margin-left: 240px;
+    margin-top: 10px;
+}
+input{
+    border: none;
+    background-color: rgb(216, 214, 214);
+    color: black;
+}
+.abc{
+    background-color: rgb(216, 214, 214);
+    border: 1px solid rgb(216, 214, 214);;
+    border-radius: 40px;
+     height: 30px;
+     width: 420px; 
+    margin-left: 230px;
+    margin-top: 20px;
+}
+.fa{
+    background-color: rgb(216, 214, 214);
+    border: 1px solid rgb(216, 214, 214);
+    border-radius: 60px;
+}
+.icon{
+    background-color: rgb(216, 214, 214);
+    border: 1px solid rgb(216, 214, 214);
+    border-radius: 50px;
+    height: 20px;
+    width: 30px;
+    padding: 14px;
+}
+span{
+    background-color: rgb(216, 214, 214);
+    border: 1px solid rgb(216, 214, 214);
+    border-radius: 50px;
+    height: 20px;
+    width: 30px;
+    padding: 14px;
+    margin-left: 10px;
+}
+.adj{
+    display: flex;
+    width: 33%;
+}
+image{
+    border: 1px soli silver;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.my{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 70px;
+}
+.left{
+    width: 24%;
+    position: fixed;
+    margin-left: 0%;
+    margin-top: 0px;
+    background-color: rgb(216, 214, 214);
+}
+.icon-1{
+    color: blue;
+    margin-top: 24px;
+}
+.home{
+    display: flex;
+    margin-left: 30px;
+}
+h2{
+    margin-left: 10px;
+}
+.image-1{
+    border: 1px soli silver;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-left: 0px;
+    }
+    .nab{
+        display: flex;
+        margin-left: 0px;
+    }
+    .friend{
+        display: flex;
+        margin-left: 20px;
+
+    }
+    .icon-2{
+        color: blue;
+        margin-top: 24px;
+        
+    }
+    .memory{
+        display: flex;
+        margin-left: 20px;
+    }
+    .icon-3{
+        color: blue;
+        margin-top: 24px;
+    }
+    .recent{
+        display: flex;
+        margin-left: 20px;
+    }
+    .icon-4{
+        color: blue;
+        margin-top: 24px; 
+    }
+    .icon-6{
+        color: blue;
+        margin-top: 24px; 
+    }
+    .icon-7{
+        color: blue;
+        margin-top: 24px; 
+    }
+    .icon-8{
+        margin-top: 24px; 
+    }
+    .main{
+        margin-top: 10px;
+        width: 30%;
+        position: absolute;
+        margin-bottom: 0%;
+        margin-left: 24%;
+    }
+    .center{
+        display: flex;
+        justify-content: space-between;
+        margin-right: 370px;
+        background-color: white;
+        width: 470px;
+    }
+    .style{
+        display: flex;
+        background-color: white;
+        width: 470px;
+    }
+    .plan{
+        border-radius: 40px;
+        margin-left: 10px;
+    }
+    #niks{ 
+        width: 340px;
+        height: 20px;
+    }
+    .feeling{
+        background-color: white;
+        width: 470px;
+    }
+    
+    .icon-9{
+        margin-top: 24px; 
+    }
+  .post{
+    display: flex;
+    background-color: white;
+    width: 470px;
+  }
+  .flt{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .dots{
+    font-size: 40px;
+  }
+  .cross{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 240px;
+
+  }
+  .taj{
+    border: none;
+    border-radius: none;
+    background-color: white;
+    width: 470px;
+    
+  }
+  .per{
+    margin-top: 10px;
+  }
+  .every{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .im-1{
+    margin-bottom: 22%;
+    border: 3px solid blue;
+    position: absolute;
+    z-index: 1;
+    padding: 4px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+  }
+  .im-2{
+    background-color: blue;
+    border: 3px solid white;
+    position: absolute;
+    z-index: 3;
+    padding: 4px;
+    margin-top: -30px;
+    margin-right: 10%;
+    margin-left: 0%;
+ }
+ .right{
+    width: 33%;
+    text-align: center;
+    position: fixed;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 64%;
+    background-color: rgb(216, 214, 214);
+ }
+ .nmd{
+    background-color: rgb(234, 233, 233);
+    border: none;
+    border-radius: none;
+ }
+ .icon-7ab{
+    color: rgb(30, 144, 95);
+ }
+ .lstdot{
+    display: flex;
+    margin-left: 160px;
+ }
+ .icon-20{
+    margin-top: 24px;
+    color: green;
+    margin-left: 10px;
+ }
+ @media screen and (max-width:1400px) {
+    body{
+        background-color: blue;
+        
+    }
+    .main{
+        margin-left: 330px;
+    }
+    
+ }
+ @media  screen and (max-width:1200px) and (min-width:780px) {
+    body{
+        background-color: rgb(0, 255, 145);
+    }
+    .extra{
+        width: 10px;
+        margin-left: 220px;
+    }
+    .right{
+        width: 370px;
+        margin-left: 67%;
+        margin-top: 10px;
+    }
+    .left{
+        margin-right: 460px;
+    
+    }
+    .main{
+        margin-left: 288px;
+    }  
+ }
+ @media  screen and (max-width:780px) and (min-width:480px) {
+    body{
+        background-color: violet;
+    }
+    .right{
+        display: none;
+    }
+    .left{
+        width: 32%;
+        margin-top: 10px;
+    }
+    .main{
+        margin-left: 200px;
+        width: 62%;
+        margin-left: 250px;
+    }
+    .soro{
+        width: 20px;
+    }
+    .abc{
+        width: 220px;
+        margin-left: 120px;
+    }
+    .extra{
+    margin-left: 55px;
+    }
+ }
+
+ 
+  
